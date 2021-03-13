@@ -11,6 +11,8 @@ terraform.log
 .terraform/
 logs/
 terraform.tfstate.d/
+.terraform.lock.hcl
+
 
 # Go vendor directory
 vendor/
